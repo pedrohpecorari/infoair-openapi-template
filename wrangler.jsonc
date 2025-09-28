@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "infoair-openapi-template",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "infoair-openapi-template-db",
+      "database_id": "34757fa3-a116-4248-aab4-114db40cc8c0"
+    }
+  ]
+}
